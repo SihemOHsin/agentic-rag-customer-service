@@ -19,6 +19,10 @@ Question utilisateur → LangGraph Agent → RAG / SQL Tools → Human Validatio
 
 ![Home page](docs/screenshots/image.png)
 
+## Visualisation
+![LangGraph Studio](docs/screenshots/langSmith.png)
+
+
 ## Run locally
 
 ```bash
